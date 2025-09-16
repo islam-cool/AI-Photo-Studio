@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Studio",
+  "description": "An AI-powered photo editing application that uses Gemini to transform your product photos. Upload an image, choose your desired style, lighting, and perspective, and let the AI generate a professional-quality new image.",
+  "requestFramePermissions": []
+}
